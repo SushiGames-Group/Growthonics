@@ -1,0 +1,9 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/home/sushiguy/dev/asm_game",
+            "binaryPath": "/home/sushiguy/dev/asm_game/game",
+            "binaryArgs": []
+        }
+    ]
+}
